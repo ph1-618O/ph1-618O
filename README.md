@@ -1,4 +1,4 @@
-![Fireflies](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner2.png)
+![Fireflies](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner3.png)
 - 👋 Hi, I’m @ph1-618O
 - 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
