@@ -1,5 +1,5 @@
 ![Fireflies](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner3.png)
-<div style"font-family: Futura, Helvetica, arial, sans-serif-"><em>
+<div style"font-family: Futura, Helvetica, arial, sans-serif, text-align:right"><em>
 <!----  👋 Hi, I’m @ph1-618O
 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on real world projects
 - 🉑 I know Japanese-->
 j3n.s3idl@gmail.com
-- </em></div>
-- <i class="ri-leaf-fill"></i>
+</em></div>
+<i class="ri-leaf-fill"></i>
 
 <!---
 ph1-618O/ph1-618O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
