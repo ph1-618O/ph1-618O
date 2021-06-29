@@ -1,12 +1,12 @@
 ![Fireflies](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner3.png)
-<div style"font-family: Futura, arial, sans-serif-"> 👋 Hi, I’m @ph1-618O
+<div style"font-family: Futura, arial, sans-serif-"><em> 👋 Hi, I’m @ph1-618O
 - 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
 - 🌱 I’m currently learning Python and Julia Automation for IT
 - 💞️ I’m looking to collaborate on real world projects
 - 🉑 I know Japanese
 - 📫 How to reach me j3n.s3idl@gmail.com
-- </div>
+- </em></div>
 - <i class="ri-leaf-fill"></i>
 
 <!---
