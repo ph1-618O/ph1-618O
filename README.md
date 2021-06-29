@@ -1,5 +1,5 @@
 ![Fireflies](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner3.png)
-<div style"font-family: Futura, Helvetica, arial, sans-serif, text-align:right"><em>
+<div style="font-family: Futura, Helvetica, arial, sans-serif, text-align:right"><em>
 <!----  👋 Hi, I’m @ph1-618O
 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
