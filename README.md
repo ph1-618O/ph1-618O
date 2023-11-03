@@ -1,7 +1,7 @@
 ![Header](https://github.com/ph1-618O/ph1-618O/blob/main/fireflies_banner.png)
 <div style="font-family: Futura, Helvetica, arial, sans-serif, text-align:right"><em>
 "To see a world in a grain of sand and a heaven in a wild flower,
-hold infinity in the palm of your hand and eternity in an hour"- Blake
+hold infinity in the palm of your hand and eternity in an hour"-Blake
 <br>
 🧢 + 🚩 = ☂️ 
 <!-- 👋 Hi, I’m @ph1-618O
