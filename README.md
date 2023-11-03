@@ -3,7 +3,8 @@
 "To see a world in a grain of sand and a heaven in a wild flower,
 hold infinity in the palm of your hand and eternity in an hour" - Blake
 <br>
-<h1 style="text-align: center;">🧢 + 🚩 = ☂️ </h1>
+<div style="text-align: center;" markdown="1">
+<h1 style="text-align: center;">🧢 + 🚩 = ☂️ </h1></div>
 <!-- 👋 Hi, I’m @ph1-618O
 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
