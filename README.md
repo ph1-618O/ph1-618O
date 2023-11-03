@@ -2,7 +2,8 @@
 <div style="font-family: Futura, Helvetica, arial, sans-serif, text-align:right"><em>
 "To see a world in a grain of sand and a heaven in a wild flower,
 hold infinity in the palm of your hand and eternity in an hour" - Blake
-<br> 🧢 + 🚩 = ☂️
+<br>
+<p style="text-align: center;"> 🧢 + 🚩 = ☂️ </p>
 <!-- 👋 Hi, I’m @ph1-618O
 👀 I’m interested in coding
 - 👩🏽‍💻 I'm experienced with building full stacks with Python, SQL, Javascript, HTML/CSS, R, Julia, Ruby
